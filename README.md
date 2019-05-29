@@ -20,7 +20,7 @@ https://github.com/puppipay/blue011consume
 
 This example uses testnet.
 
-To get access to use this. Contact puppipay team.
+To get access to use this. Contact puppipay team (puppipay01@gmail.com).
 
 ## Content of ./blue011ssuemessage1.sh
 
