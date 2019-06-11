@@ -114,9 +114,37 @@ https://testnet-insight.dashevo.org/insight-api/addr/92wN1HFM2qmarbxwN25EeeTC4ii
 <img src="workingimages/seesent.png" alt="alt text" width="400">
 
 
-## Verify the DASH revertible-address has received. By checking balance
+## Verify the DASH revertible-address has received.
+
+By checking balance
 
 <img src="workingimages/seebalance.png" alt="alt text" width="400">
+
+## Now you can send the locked-message and PIN to other party to receive fund.
+
+In above images
+
+The locking-message is 
+ ``` bash
+ 
+ "message":  "eyJjcmMiOiIyMGUwNjEiLCJ1aWQiOiIwMjEyOGM1OTAzMDNkMTMwZTFmZWMxZWQyNDUzMjE3MGE5OThkOGIxNGYyZWNjNDRiOWY5OTE4MjIyMWVhZGM0MjQiLCJwaW5kYXRhIjp7ImlkIjoiVEVTMTU1NTc1Nzg5NTE2NiIsImRhdGUiOiIxNTYwMjIwNDgyMjIxIiwicGluIjoiIn19"
+ 
+ ``` 
+ 
+ The PIN to unlock is
+ ``` bash
+ 
+  "pin": "PIN_6HGPPNB21",
+  
+  ``` 
+  
+  The DASH address having fund is
+ 
+ ``` bash
+ 
+ "address": "92wN1HFM2qmarbxwN25EeeTC4iiF1dZzcx",
+  
+``` 
 
 
 
