@@ -101,4 +101,4 @@ https://testnet-insight.dashevo.org/insight-api/addr/92wN1HFM2qmarbxwN25EeeTC4ii
 ```
 
 
-![Image description](workingimages/requestdash.png) { width=50% }
+![Image description](workingimages/requestdash.png){ width=50% }
