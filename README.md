@@ -1,17 +1,17 @@
 # blue011issue
 
-Example of creating revertible DASH address. This address is protected by Locking "Message and PIN"
+Example of creating DASH revertible-address. This address is protected by "Locking-Message and PIN"
 
 
 ## How to use this
 
-- Create revertible DASH address
-- Deposit funds you want to send into revertible DASH address
-- Send locking "Message and PIN" to the person, you intend go give funds.
-- He can withdraw funds using "Message and PIN"
+- Create DASH revertible-address
+- Deposit funds you want to send into DASH revertible-address
+- Send "Locking-Message and PIN" to the person, you intend go give funds.
+- He can withdraw funds using "Locking-Message and PIN"
 
 In case the user does not withdraw or you intend to cancel payment
-- You can use the "Message and PIN" to withdraw the funds your self.
+- You can use the "Locking-Message and PIN" to withdraw the funds your self.
 
 ## The sample to withdraw is provided in
 
@@ -120,11 +120,11 @@ By checking balance
 
 <img src="workingimages/seebalance.png" alt="alt text" width="400">
 
-## Now you can send the locked-message and PIN to other party to receive fund.
+## Now you can send the Locking-message and PIN to other party to receive fund.
 
 In above images
 
-The locking-message is 
+The Locking-message is 
  ``` bash
  
  "message":  "eyJjcmMiOiIyMGUwNjEiLCJ1aWQiOiIwMjEyOGM1OTAzMDNkMTMwZTFmZWMxZWQyNDUzMjE3MGE5OThkOGIxNGYyZWNjNDRiOWY5OTE4MjIyMWVhZGM0MjQiLCJwaW5kYXRhIjp7ImlkIjoiVEVTMTU1NTc1Nzg5NTE2NiIsImRhdGUiOiIxNTYwMjIwNDgyMjIxIiwicGluIjoiIn19"
@@ -138,7 +138,7 @@ The locking-message is
   
   ``` 
   
-  The DASH address having fund is
+  The DASH revertible-address having fund is
  
  ``` bash
  
