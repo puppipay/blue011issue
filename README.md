@@ -75,3 +75,20 @@ t":0,"unconfirmedBalance":0,"unconfirmedBalanceSat":0,"unconfirmedTxApperances":
 ces":0,"transactions":[]}
 
 ```
+
+
+## Testnet resources
+
+## Loading DASH address with testcoins
+
+It can be loaded from one of the link below
+
+http://test.faucet.masternode.io/
+http://faucet.test.dash.crowdnode.io/
+
+## Verifying testnet transaction in blockchain
+
+The transactions reported can be verified using following links
+
+https://testnet-insight.dashevo.org/insight/
+http://insight.test.dash.crowdnode.io/
