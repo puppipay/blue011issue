@@ -81,14 +81,21 @@ ces":0,"transactions":[]}
 
 ## Loading DASH address with testcoins
 
+``` bash
 It can be loaded from one of the link below
+
 
 http://test.faucet.masternode.io/
 http://faucet.test.dash.crowdnode.io/
 
+```
+
 ## Verifying testnet transaction in blockchain
 
+``` bash
 The transactions reported can be verified using following links
 
 https://testnet-insight.dashevo.org/insight/
 http://insight.test.dash.crowdnode.io/
+
+```
