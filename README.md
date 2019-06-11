@@ -90,12 +90,12 @@ http://faucet.test.dash.crowdnode.io/
 
 ```
 
-## Verifying testnet transaction in blockchain
+## Verifying DASH testnet address has balance 
 
 ``` bash
-The transactions reported can be verified using following links
+In below link replace the address with your DASH testnet address 
 
-https://testnet-insight.dashevo.org/insight/
-http://insight.test.dash.crowdnode.io/
+https://testnet-insight.dashevo.org/insight-api/addr/92wN1HFM2qmarbxwN25EeeTC4iiF1dZzcx
+
 
 ```
