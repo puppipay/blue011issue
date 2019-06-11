@@ -99,9 +99,24 @@ https://testnet-insight.dashevo.org/insight-api/addr/92wN1HFM2qmarbxwN25EeeTC4ii
 
 
 ```
+# Images of steps
 
+## Download issue script and create DASH revertible-address
 
+<img src="workingimages/issuegetaddress.png" alt="alt text" width="400">
 
+## Load the DASH revertible-address with DASH testcoins
 
 <img src="workingimages/requestdash.png" alt="alt text" width="400">
+
+## Confirm the DASH testcoins is sent
+
+<img src="workingimages/seesent.png" alt="alt text" width="400">
+
+
+## Verify the DASH revertible-address has received. By checking balance
+
+<img src="workingimages/seebalance.png" alt="alt text" width="400">
+
+
 
