@@ -109,6 +109,10 @@ https://testnet-insight.dashevo.org/insight-api/addr/92wN1HFM2qmarbxwN25EeeTC4ii
 
 <img src="workingimages/requestdash.png" alt="alt text" width="400">
 
+The link to get DASH testcoins is 
+
+http://faucet.test.dash.crowdnode.io
+
 ## Confirm the DASH testcoins is sent
 
 <img src="workingimages/seesent.png" alt="alt text" width="400">
