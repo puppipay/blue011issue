@@ -13,6 +13,14 @@ Example of creating DASH revertible-address. This address is protected by "Locki
 In case the user does not withdraw or you intend to cancel payment
 - You can use the "Locking-Message and PIN" to withdraw the funds your self.
 
+## Getting started video
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://www.youtube.com/watch?v=tYHjtpm9lqY">
+    </iframe>
+</div>
+
+
 ## The sample to withdraw is provided in
 
 https://github.com/puppipay/blue011consume
