@@ -14,11 +14,9 @@ In case the user does not withdraw or you intend to cancel payment
 - You can use the "Locking-Message and PIN" to withdraw the funds your self.
 
 ## Getting started video
-<div align="center">
-    <iframe width="620" height="315"
-        src="https://www.youtube.com/watch?v=tYHjtpm9lqY">
-    </iframe>
-</div>
+
+[![Everything Is AWESOME](https://img.youtube.com/watch?v=tYHjtpm9lqY/0.jpg)](https://www.youtube.com/watch?v=tYHjtpm9lqY "Everything Is AWESOME")
+
 
 
 ## The sample to withdraw is provided in
