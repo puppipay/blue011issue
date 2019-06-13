@@ -15,7 +15,7 @@ In case the user does not withdraw or you intend to cancel payment
 
 ## Getting started video
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/tYHjtpm9lqY/0.jpg)](https://www.youtube.com/watch?v=tYHjtpm9lqY "Everything Is AWESOME")
+[![Issue revertible address](https://img.youtube.com/vi/tYHjtpm9lqY/0.jpg)](https://www.youtube.com/watch?v=tYHjtpm9lqY "Issue revertible address")
 
 
 
