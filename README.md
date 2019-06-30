@@ -1,6 +1,6 @@
 # blue011issue
 
-Example of creating DASH revertible-address. This address is protected by "Locking-Message and PIN"
+Example of creating DASH payment revertible-address. This address is protected by "Locking-Message and PIN"
 
 
 ## How to use this
